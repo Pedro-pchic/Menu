@@ -1,0 +1,56 @@
+body{
+
+    background-image: url(img/WhatsApp\ Image\ 2024-01-24\ at\ 9.24.53\ PM.jpeg);
+    background-size: 100%;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    font-size:  40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+ h2{
+    font-size: 30px;
+ }
+ h3{
+    font-size: 30px;
+ }
+h1, h2, h3, p{
+    text-align: center;
+
+}
+.bold-text{
+    font-weight: bold;
+}
+.mentot{
+    width: 100%;
+    background-color: khaki;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 35px;
+    max-width: 900px;
+}
+hr{
+    height: 2px;
+    background-color: aquamarine;
+    border-color:aquamarine;
+}
+h1, h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.tipo p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+.pan{
+    text-align: left;
+    width: 75%;
+
+}
+.valor{
+    text-align: left;
+    width: 8%;
+}
